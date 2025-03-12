@@ -1,0 +1,3 @@
+[2025-03-12 14:41:45,871] 23 root - INFO - Entered the data Ingestion Method
+[2025-03-12 14:41:45,876] 26 root - INFO - Read the Dataset
+[2025-03-12 14:41:45,885] 31 root - INFO - Train Test Split Initiated
